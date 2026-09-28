@@ -15,8 +15,6 @@ A Python packet sniffer that captures live network traffic and decodes it layer 
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/CodeAlpha_NetworkSniffer.git
-cd CodeAlpha_NetworkSniffer
 pip install -r requirements.txt
 ```
 Windows users also need [Npcap](https://npcap.com) for scapy (tick "WinPcap API-compatible mode").
